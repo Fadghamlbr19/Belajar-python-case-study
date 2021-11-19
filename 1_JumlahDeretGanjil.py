@@ -7,8 +7,4 @@ for i in range(position):
     b = b+1
     print (total)
 
-
-
-
-
-print("jumlah deret ganjil ke-n adalah" + str(total))
+print("jumlah deret ganjil ke-"+ str(position) + " adalah " + str(total))
